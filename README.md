@@ -9,6 +9,8 @@ A list of ROMS I'm trying to find or have installed on my RetroPie. If found, li
   <li>Mario Kart - SNES</li>
   <li>Micro Machines - Sega Megadrive</li>
   <li>Xenon2 - PC</li>
+  <li>Street Fighter</li>
+  <li>Golden Axe</li>
 </ul>
   
 
