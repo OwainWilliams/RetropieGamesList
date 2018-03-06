@@ -13,7 +13,11 @@ A list of ROMS I'm trying to find or have installed on my RetroPie. If found, li
   <li>Golden Axe :hand:</li>
 </ul>
   
-Key:
-:-1: Doesn't work, need to find alternative ROM
-:+1: Works, game on!
-:hand: Got the ROM but is untested
+  
+  
+| Icon          | Meaning        
+| ------------- |:-------------:|
+| :-1:          | Doesn't work, need to find new ROM |
+| :+1:          | It works, game on!      |
+| :hand:        | Got the ROM, still to test      |
+
