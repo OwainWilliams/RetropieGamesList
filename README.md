@@ -1,4 +1,3 @@
-{% last_modified_at %}
 
 <img src="https://retropie.org.uk/wp-content/uploads/2016/04/RetroPieWebsiteLogo.png" />
 
