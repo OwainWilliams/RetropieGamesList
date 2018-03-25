@@ -1,3 +1,7 @@
 theme: jekyll-theme-hacker
 plugins: 
   - jemoji
+
+document_heading: %Y-%m
+daily_heading: %d
+timestamp: %R 
